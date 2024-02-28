@@ -1,4 +1,4 @@
-Ссылка на проект: [(https://github.com/VladimirFilippov555/ahj-homework7-http-frontend)]
+Ссылка на проект: (https://github.com/VladimirFilippov555/ahj-homework7-http-frontend)
 
 1. Скачайте репозиторий
 2. Установите npm-пакеты: `npm i`
